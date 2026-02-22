@@ -1,7 +1,7 @@
 Data Visualization Dashboards 
 This project is a collection of data dashboards created with Python. It shows how to turn raw numbers into clear, professional charts using libraries like Matplotlib and Seaborn.
 
-📁 What’s Inside?
+ What’s Inside?
 1. Business Success Dashboard
 Shows which industries (like IT or Retail) have the most successful businesses using colorful bar charts.
 
